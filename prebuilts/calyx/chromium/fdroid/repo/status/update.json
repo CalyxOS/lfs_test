@@ -1,0 +1,97 @@
+{
+  "/etc/issue.net": "Debian GNU/Linux 11",
+  "antiFeatures": {
+    "NonFreeNet": {
+      "apps": [
+        "com.aurora.store",
+        "wangdaye.com.geometricweather"
+      ]
+    },
+    "Tracking": {
+      "apps": [
+        "org.openobservatory.ooniprobe"
+      ]
+    }
+  },
+  "apksigner": "/usr/local/bin/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "../fdroidserver/fdroid update",
+    "--pretty"
+  ],
+  "disabled": [],
+  "endTimestamp": 1706111778602,
+  "failedBuilds": {},
+  "fdroidserver": {
+    "commitId": "d0d15a205f4c89ae0b52fc497235e4c1e5d5a05e",
+    "isDirty": true,
+    "modifiedFiles": [
+      "fdroidserver/update.py"
+    ],
+    "untrackedFiles": []
+  },
+  "jarsigner": "/usr/lib/jvm/java-11-openjdk-amd64/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/java-11-openjdk-amd64/bin/keytool",
+  "needsUpdate": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.fdroid.basic",
+    "org.onionshare.android.fdroid",
+    "org.openobservatory.ooniprobe",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn",
+    "us.spotco.malwarescanner",
+    "wangdaye.com.geometricweather"
+  ],
+  "noPackages": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.fdroid.basic",
+    "org.onionshare.android.fdroid",
+    "org.openobservatory.ooniprobe",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn",
+    "us.spotco.malwarescanner",
+    "wangdaye.com.geometricweather"
+  ],
+  "noUpdateCheck": [
+    "app.organicmaps",
+    "at.bitfire.davdroid",
+    "com.artifex.mupdf.viewer.app",
+    "com.aurora.store",
+    "com.fsck.k9",
+    "com.jarsilio.android.scrambledeggsif",
+    "com.nextcloud.client",
+    "org.briarproject.briar.android",
+    "org.calyxinstitute.vpn",
+    "org.fdroid.basic",
+    "org.onionshare.android.fdroid",
+    "org.openobservatory.ooniprobe",
+    "org.thoughtcrime.securesms",
+    "org.torproject.android",
+    "org.torproject.torbrowser",
+    "se.leap.riseupvpn",
+    "us.spotco.malwarescanner",
+    "wangdaye.com.geometricweather"
+  ],
+  "startTimestamp": 1706111734000,
+  "subcommand": "update"
+}

@@ -1,0 +1,9 @@
+AlwaysInstall
+Connectivity
+Default
+Hidden
+Internet
+Navigation
+Reading
+Security
+System
